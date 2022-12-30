@@ -22,6 +22,6 @@ Guide de lancement via Android Studio :
   </tr>
  </table>
 
-Autre information :
+:information_source: Autre information :
 
 Dans ce répertoire vous retrouverez aussi l'APK de notre projet Flutter `TP2_Flutter.apk` si vous souhaitez essayer cette application depuis un terminal Android.
