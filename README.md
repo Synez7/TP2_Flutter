@@ -11,9 +11,9 @@ Guide de lancement via Android Studio :
 
 <table>
   <tr>
-    <td>Demo - Exerice 1</td>
-     <td>Demo -Exercice 2</td>
-     <td>Demo - WeatherApp</td>
+    <td align="center">Demo - Exerice 1</td>
+     <td align="center">Demo - Exercice 2</td>
+     <td align="center">Demo - WeatherApp</td>
   </tr>
   <tr>
     <td><img src="./Exercice1.gif?raw=true" width=270 height=480></td>
