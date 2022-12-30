@@ -11,7 +11,7 @@ Guide de lancement via Android Studio :
 
 <table>
   <tr>
-    <td align="center">Demo - Exerice 1</td>
+    <td align="center">Demo - Exercice 1</td>
      <td align="center">Demo - Exercice 2</td>
      <td align="center">Demo - WeatherApp</td>
   </tr>
@@ -22,6 +22,5 @@ Guide de lancement via Android Studio :
   </tr>
  </table>
 
-:information_source: Autre information :
-
+Autre information :
 Dans ce répertoire vous retrouverez aussi l'APK de notre projet Flutter `TP2_Flutter.apk` si vous souhaitez essayer cette application depuis un terminal Android.
