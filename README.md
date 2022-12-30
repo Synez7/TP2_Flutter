@@ -9,3 +9,10 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
+<div id='container'>
+<p align="center"><img src="./Exercice1.gif?raw=true" width="400" height="850"></p>
+<p align="center"><img src="./Exercice2.gif?raw=true" width="400" height="850"></p>
+<p align="center"><img src="./WeatherApp.gif?raw=true" width="400" height="850"></p>
+</div>
+
+
