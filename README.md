@@ -16,7 +16,7 @@ Guide de lancement via Android Studio :
   <div class="column">
     <img align="center" src="./Exercice2.gif?raw=true" width="200" height="850">
   </div>
-  <div class="column">
+  <div class="column" align="center">
     <img align="right" src="./WeatherApp.gif?raw=true" width="200" height="850">
   </div>
 </div>
