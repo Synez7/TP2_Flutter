@@ -9,7 +9,7 @@ Guide de lancement via Android Studio :
 
 4. Exécuter le fichier `main.dart` 
 
-<div class="row" align="center">
+<div class="row">
   <div class="column">
     <img align="left" src="./Exercice1.gif?raw=true" width="200" height="850">
   </div>
