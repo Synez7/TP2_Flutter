@@ -11,12 +11,12 @@ Guide de lancement via Android Studio :
 
 <div class="row">
   <div class="column">
-    <img src="./Exercice1.gif?raw=true" width="400" height="650">
+    <img src="./Exercice1.gif?raw=true" width="300" height="850">
   </div>
   <div class="column">
-    <img src="./Exercice2.gif?raw=true" width="400" height="650">
+    <img src="./Exercice2.gif?raw=true" width="300" height="850">
   </div>
   <div class="column">
-    <img src="./WeatherApp.gif?raw=true" width="400" height="650">
+    <img src="./WeatherApp.gif?raw=true" width="300" height="850">
   </div>
 </div>
